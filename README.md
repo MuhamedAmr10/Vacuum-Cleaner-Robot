@@ -16,7 +16,7 @@ cleaning a floor , removing dust giving more free time and comfort
 #### Cleaning Mechanism
 Fan motor is controled using power transistor (bjt) by sending signal using Bluetooth module ciruit closed and fan is on 
 
-##### Here you can see how i made protable vacuum cleaner 
+###### Here you can see how i made protable vacuum cleaner 
 [Design-Vacuum-cleaner](https://www.youtube.com/watch?v=hHIIWpZcYNs&t=204s)
 
 #### Vision Mechanism
