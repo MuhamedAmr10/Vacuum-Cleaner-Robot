@@ -5,6 +5,8 @@
 <br/>
 
 ## Introduction 
+Robot is controlled wireless using bluetooth-module , controling movement of robot and fan motor on/off by sending signals to microcontroller using bluetoooth-module through UART connection between microcontroller and bluetooth module . providing vision for sensing purpose using esp32-camera .
+through camera application you can see the floor ,so you can see a place where you want to clean .
 
 I built my project using ATmega32 , as ATmega32 is easy to program AVR controller. With appreciable program memory it can satisfy most EMBEDDED SYSTEMS.
 and writing code using C and Embedded C Programming.
