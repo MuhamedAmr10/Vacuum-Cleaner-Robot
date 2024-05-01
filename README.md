@@ -1,5 +1,4 @@
 # Vacuum-Cleaner-Robot
-# Mines-Detector-Robot
 
 ###### An AVR project
 
