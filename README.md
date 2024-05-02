@@ -1,6 +1,7 @@
 # Vacuum-Cleaner-Robot
+Robot make a floor clean and remove dust and 
+other allergens in way of remote control (Bluetooth)
 
-###### An AVR project
 
 <br/>
 
@@ -31,9 +32,12 @@ Esp32-cam is responsible for vision by using it's wifi function , i program it u
 <br/>
 
 
+
 #### Full description of the module
 
-[![Project Video]](https://github.com/MuhamedAmr10/Vacuum-Cleaner-Robot/assets/168368256/800bcd8c-4c14-4bc6-8797-b80d73f40a17)
+
+[![Project Video]](https://github.com/MuhamedAmr10/Mines-Detector-Robot/assets/168368256/d156376e-e13e-42ef-b3b0-94ec5708a728)
+
 
 
 <br />
