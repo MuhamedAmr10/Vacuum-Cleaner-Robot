@@ -36,7 +36,7 @@ Esp32-cam is responsible for vision by using it's wifi function , i program it u
 #### Full description of the module
 
 
-[![Project Video]](https://github.com/MuhamedAmr10/Mines-Detector-Robot/assets/168368256/d156376e-e13e-42ef-b3b0-94ec5708a728)
+[![Project Video]](https://github.com/MuhamedAmr10/Mines-Detector-Robot/assets/168368256/77cfc412-5df3-4e6d-bc1d-5d2acc0188e9)
 
 
 
